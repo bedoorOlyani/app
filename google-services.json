@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891595104982",
+    "project_id": "jamali-20e27",
+    "storage_bucket": "jamali-20e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891595104982:android:928d6eda71329bfd6d1f77",
+        "android_client_info": {
+          "package_name": "com.example.jamali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891595104982-dv8gidmqi02vkadjplaburqlhl9ofi2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjKkYQWsVQ1ozFEdGaIRyZTO8mc58snU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891595104982-dv8gidmqi02vkadjplaburqlhl9ofi2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
